@@ -2,41 +2,6 @@
 
 A comprehensive attendance tracking system built with React, Redux Toolkit, Node.js, Express, and MongoDB.
 
-## 📸 Screenshots
-
-### Login & Registration
-![Login Page]("C:\Users\ameer\OneDrive\Pictures\Screenshots\Screenshot 2025-11-30 083434.png")
-*Modern login page with gradient background*
-
-![Registration Page](./screenshots/register.png)
-*User registration form*
-
-### Employee Pages
-![Employee Dashboard](./screenshots/employee-dashboard.png)
-*Employee dashboard showing today's status and monthly summary*
-
-![Mark Attendance](./screenshots/employee-attendance.png)
-*Check In/Check Out interface*
-
-![Attendance History](./screenshots/employee-history.png)
-*Attendance history with calendar and table views*
-
-![Employee Profile](./screenshots/employee-profile.png)
-*Employee profile information*
-
-### Manager Pages
-![Manager Dashboard](./screenshots/manager-dashboard.png)
-*Manager dashboard with team statistics and charts*
-
-![All Attendance](./screenshots/manager-attendance.png)
-*View all employees' attendance with filters*
-
-![Team Calendar](./screenshots/manager-calendar.png)
-*Team calendar view showing attendance overview*
-
-![Reports](./screenshots/manager-reports.png)
-*Attendance reports with CSV export functionality*
-
 ## Features
 
 ### Employee Features
