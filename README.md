@@ -5,7 +5,7 @@ A comprehensive attendance tracking system built with React, Redux Toolkit, Node
 ## 📸 Screenshots
 
 ### Login & Registration
-![Login Page](./screenshots/login.png)
+![Login Page]("C:\Users\ameer\OneDrive\Pictures\Screenshots\Screenshot 2025-11-30 083434.png")
 *Modern login page with gradient background*
 
 ![Registration Page](./screenshots/register.png)
