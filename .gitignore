@@ -1,0 +1,10 @@
+node_modules/
+.env
+*.log
+.DS_Store
+dist/
+build/
+
+# Screenshots folder is tracked (images should be in repository)
+# screenshots/
+
